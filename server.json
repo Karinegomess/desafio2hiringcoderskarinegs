@@ -1,0 +1,35 @@
+{
+
+"produtos": [
+    {
+        "id": 1,
+        "photo": "https://guiadoestudante.abril.com.br/wp-content/uploads/sites/4/2021/04/Curso-online.jpg",
+        "name": "Cursos",
+        "description": "Descrição do produto",
+        "price": 3992
+    },
+    {
+        "id": 2,
+        "photo": "https://treediversidade.com.br/wp-content/uploads/2020/06/treinamento_diversidade-inclusao-2-1024x536.jpg",
+        "name": "Treinamentos",
+        "description": "Descrição do produto",
+        "price": 5992
+    },
+    {
+        "id": 3,
+        "photo": "https://blog.handtalk.me/wp-content/uploads/2018/06/048-imagem-post-apresentacoes-acessiveis.png",
+        "name": "Palestras",
+        "description": "Descrição do produto",
+        "price": 2782
+    },
+    {
+        "id": 4,
+        "photo": "https://eescjr.com.br/wp-content/uploads/Potencializando-resultados-1-1030x855.png",
+        "name": "Consultoria",
+        "description": "Descrição do produto",
+        "price": 6389
+    }
+
+
+]
+}
